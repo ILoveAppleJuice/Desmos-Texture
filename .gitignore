@@ -1,1 +1,5 @@
-./venv
+# First, ignore everything
+*
+
+!*.desmos texture generator.py
+!*.requirements.txt
